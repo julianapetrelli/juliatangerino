@@ -3,10 +3,10 @@
 <div align="center">
  Meu nome é Juliana mas todos me chamam de Julia
  
- - 🌱 Atualmente estudando: JavaScript
- - 🔍 Disponivel para novas oportunidades.
- - 📡 No momento busco contribuir com projetos web
- - 💬 Hobby no tempo livre: Designer
+ 🌱 Atualmente estudando: JavaScript
+ 🔍 Disponivel para novas oportunidades.
+ 📡 No momento busco contribuir com projetos web
+ 💬 Hobby no tempo livre: Designer
 </div>
 
 <div align="center">
@@ -17,5 +17,5 @@
 
 <div>
   <a href = "mailto:julianatangerino2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliana-tangerino-b52493200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juliana-tangerino-b52493200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
 </div>
