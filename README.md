@@ -15,9 +15,10 @@
 
  ![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
 
-
- [![Twitter Badge](https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JulianaTangeri1)](https://twitter.com/JulianaTangeri1) 
- [![Linkedin Badge](https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-tangerino-b52493200/)](https://www.linkedin.com/in/juliana-tangerino-b52493200/) 
- [![Gmail Badge](https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianatangerino2017@gmail.com)](mailto:julianatangerino2017@gmail.com)
+<div align="center">
+ <a href ="mailto:julianatangerino2017@gmail.com"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianatangerino2017@gmail.com" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/juliana-tangerino-b52493200/"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-tangerino-b52493200/" target="_blank"></a> 
+ <a href="https://twitter.com/JulianaTangeri1"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-ff69b4?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JulianaTangeri1" target="_blank"></a> 
+</div>
 
  
