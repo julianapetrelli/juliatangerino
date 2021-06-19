@@ -12,8 +12,10 @@
 <div align="center">
  <img alt="ola" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
- 
+
+<div align="center">
  ![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div>
   <a href = "mailto:julianatangerino2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
