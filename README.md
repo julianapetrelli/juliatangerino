@@ -1,6 +1,6 @@
-<h1>Olá seja bem vindo(a)!</h1> 
+<h1 align="center">Olá seja bem vindo(a)!</h1> 
 
-<div>
+<div align="center">
  Meu nome é Juliana mas todos me chamam de Julia
  
  - 🌱 Atualmente estudando: JavaScript
