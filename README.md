@@ -1,6 +1,6 @@
-### ✨ Olá seja bem vindo(a)! ✨
+## ✨ Olá seja bem vindo(a)! ✨
 
-<div>
+<div align="center">
  
  Meu nome é Juliana mas todos me chamam de Julia 🌈
  
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img align="center" alt="Rafa-yoda" src="https://data.whicdn.com/images/65347585/original.gif">
+<img alt="Rafa-yoda" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
  
  ![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
