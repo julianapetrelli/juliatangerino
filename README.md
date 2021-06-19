@@ -1,7 +1,8 @@
-
+<div>
+ ## Olá seja bem vindo(a)!
+</div>
 
 <div>
-  ## Olá seja bem vindo(a)!
 <img align="center" alt="Rafa-yoda" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
 <div> 
@@ -12,5 +13,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
