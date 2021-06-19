@@ -10,14 +10,11 @@
 - 💬 Sobre mim: No tempo livre sou desiner!!
 </div>
 
-<div align="center">
-<img alt="Rafa-yoda" src="https://data.whicdn.com/images/65347585/original.gif">
+<div>
+<img alt="ola" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
  
  ![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
- 
- 
- - 📫 Como chegar até mim: ...
 
 <div>
  
