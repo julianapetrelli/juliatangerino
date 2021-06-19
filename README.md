@@ -3,10 +3,10 @@
 <div align="center">
  <p> Meu nome é Juliana mas todos me chamam de Julia </p>
  
- <p>Atualmente estudando: JavaScript</p>
+ <p>Atualmente estou estudando JavaScript</p>
  <p>Disponivel para novas oportunidades</p>
  <p>No momento busco contribuir com projetos web</p>
- <p>Hobby no tempo livre: Designer</p>
+ <p>Meu hobby no tempo livre é Designer</p>
 </div>
 
 <div align="center">
