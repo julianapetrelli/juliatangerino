@@ -1,12 +1,12 @@
 <h1 align="center">Olá seja bem vindo(a)!</h1> 
 
 <div align="center">
- Meu nome é Juliana mas todos me chamam de Julia
+ <p> Meu nome é Juliana mas todos me chamam de Julia </p>
  
- 🌱 Atualmente estudando: JavaScript
- 🔍 Disponivel para novas oportunidades.
- 📡 No momento busco contribuir com projetos web
- 💬 Hobby no tempo livre: Designer
+ <p> 🌱 Atualmente estudando: JavaScript </p>
+ <p> 🔍 Disponivel para novas oportunidades. </p>
+ <p> 📡 No momento busco contribuir com projetos web </p>
+ <p> 💬 Hobby no tempo livre: Designer </p>
 </div>
 
 <div align="center">
