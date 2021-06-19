@@ -1,6 +1,6 @@
 ## ✨ Olá seja bem vindo(a)! ✨
 
-<div align="center">
+<div>
  
  Meu nome é Juliana mas todos me chamam de Julia 🌈
  
@@ -10,7 +10,7 @@
 - 💬 Sobre mim: No tempo livre sou desiner!!
 </div>
 
-<div>
+<div align="center">
 <img alt="ola" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
  
