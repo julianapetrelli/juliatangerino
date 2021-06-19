@@ -4,10 +4,10 @@
  
  Meu nome é Juliana mas todos me chamam de Julia 🌈
  
-- 🌱 Atualmente estou aprendendo: JavaScript
-- 🔍 Me encontro aberta para novas oportunidades.
-- 📡 Neste momento busco colaborar com projetos Front-end e Back-end.
-- 💬 Sobre mim: No tempo livre sou desiner!!
+- 🌱 Atualmente estudando: JavaScript
+- 🔍 Disponivel para novas oportunidades.
+- 📡 No momento busco contribuir com projetos web
+- 💬 Hobby no tempo livre: Designer
 </div>
 
 <div align="center">
