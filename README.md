@@ -2,11 +2,7 @@
 
 <div align="center">
  <p> Meu nome é Juliana mas todos me chamam de Julia </p>
- 
- <p>Atualmente estou estudando JavaScript</p>
- <p>Disponivel para novas oportunidades</p>
- <p>No momento busco contribuir com projetos web</p>
- <p>Meu hobby no tempo livre é Designer</p>
+ <p>Atualmente estudo JavaScript, estou disponivel para novas oportunidades, busco contribuir com projetos web e meu hobby no tempo livre é Designer</p>
 </div>
 
 <div align="center">
