@@ -1,12 +1,6 @@
 <h1 align="center">Olá seja bem vindo(a)!</h1> 
 
 <div align="center">
- <p> Meu nome é Juliana mas todos me chamam de Julia </p>
- <p>Atualmente estudo JavaScript, estou disponivel para novas oportunidades, <br>
-  busco contribuir com projetos web e meu hobby no tempo livre é design! ❤ </p>
-</div>
-
-<div align="center">
  <img alt="ola" src="https://data.whicdn.com/images/65347585/original.gif">
 </div>
 
