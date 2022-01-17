@@ -5,13 +5,6 @@
 </div>
 
  ![Snake animation](https://github.com/juliatangerino/juliatangerino/blob/output/github-contribution-grid-snake.svg)
- 
- <div align="center">
-    <a href="https://github.com/juliatangerino">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliatangerino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff69b4"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliatangerino&layout=compact&langs_count=7&theme=dracula&title_color=ff69b4"/>
-    </a>
-</div>
 
  <br>
 
