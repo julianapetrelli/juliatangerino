@@ -31,8 +31,8 @@ I like to explore new technologies and develop solutions. I am currently studyin
 </div>
 
 <div align="center">
-<h4 style="text-align: left">Design softwares:</h4>
-<img alt="Figma" width="26px" src="https://i.imgur.com/cmSqF22.png" />
-<img alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" />
-<img  alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
+<h3 style="text-align: left">Design softwares:</h3>
+<img alt="Figma" width="33px" src="https://i.imgur.com/cmSqF22.png" />
+<img alt="Illustrator" width="33px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" />
+<img  alt="Photoshop" width="33px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
 </div>
