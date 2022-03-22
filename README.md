@@ -36,12 +36,3 @@ I like to explore new technologies and develop solutions. I am currently studyin
 <img alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" />
 <img  alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
 </div>
-
-</br>
-</br>
-
-<div align="center">
-<a href="mailto:julianatangerino2017@gmail.com"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-855166?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianatangerino2017@gmail.com" target="_blank"></a>
-<a href="https://www.linkedin.com/in/juliana-tangerino-b52493200/"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-855166?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-tangerino-b52493200/" target="_blank"></a>
-<a href="https://twitter.com/JulianaTangeri1"><img src="https://img.shields.io/badge/-Juliana%20Tangerino-855166?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JulianaTangeri1" target="_blank"></a>
-</div>
