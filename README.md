@@ -28,6 +28,8 @@ I like to explore new technologies and develop solutions. I am currently studyin
 <img src="https://img.shields.io/badge/Netlify-672f92?style=flat&logo=netlify&logoColor=white" alt="netlify">
 <img src="https://img.shields.io/badge/-GitHub-672f92?style=flat&logo=github" alt="GitHub">
 <img src="https://img.shields.io/badge/PHP-672f92?style=flat&logo=php&logoColor=white" alt="php">
+<img src="https://img.shields.io/badge/redux-672f92?style=flat&logo=redux&logoColor=white" alt="Redux">
+ 
 </div>
 
 <div align="center">
