@@ -1,7 +1,7 @@
 <img src="">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/GfFJwRF.png">
-  <img alt="" src="https://i.imgur.com/Z585xou.png">
+  <img alt="" src="https://i.imgur.com/LVr4jA0.png">
 </picture>
 
 ##
