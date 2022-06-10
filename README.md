@@ -16,6 +16,7 @@ I like to explore new technologies and develop solutions. I am currently studyin
 <img src="https://img.shields.io/badge/-Java-672f92?style=flat&logo=Java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/-React-672f92?style=flat&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/React_Native-672f92?style=flat&logo=react&logoColor=white" alt="ReactNative">
+<img src="https://img.shields.io/badge/Vue-672f92?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
 <img src="https://img.shields.io/badge/Linux-672f92?style=flat&logo=linux&logoColor=white" alt="Linux">
 <img src="https://img.shields.io/badge/-Bootstrap-672f92?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/-HTML-672f92?style=flat&logo=HTML5&logoColor=white" alt="HTML">
