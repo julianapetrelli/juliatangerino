@@ -13,6 +13,7 @@ I like to explore new technologies and develop solutions. I am currently studyin
 <div align="center">
 <h3>Languages and Tools</h3> 
 <img src="https://img.shields.io/badge/-JavaScript-672f92?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/-TypeScript-672f92?style=flat&logo=typescript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/-Java-672f92?style=flat&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/-React-672f92?style=flat&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/React_Native-672f92?style=flat&logo=react&logoColor=white" alt="ReactNative">
