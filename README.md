@@ -30,10 +30,3 @@ I like to explore new technologies and develop solutions. I am currently studyin
 <img src="https://img.shields.io/badge/redux-672f92?style=flat&logo=redux&logoColor=white" alt="Redux">
  
 </div>
-
-<div align="center">
-<h3 style="text-align: left">Design softwares:</h3>
-<img alt="Figma" width="33px" src="https://i.imgur.com/cmSqF22.png" />
-<img alt="Illustrator" width="33px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" />
-<img  alt="Photoshop" width="33px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
-</div>
